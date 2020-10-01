@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /** 
  * Input a Number and check it Perfect or Not; Perfect Number seris
- * BOF 2018
+ * BOF 2018, BWDB 2018, BCS 35
  * @author MD. AL AMIN
  *
  */
